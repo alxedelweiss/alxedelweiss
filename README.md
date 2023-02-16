@@ -1,4 +1,4 @@
-<picture><img align="right" src="./programming.gif" width=250px></picture>
+### <img align="right" src="./programming.gif" width=250px> ###
 # <img src="./about_me.gif" width=50px>**About me** #
 - Currently attending software engineering bootcamp @ Flatiron School in Denver, Colorado.
 - Check out my personal website ~> [alexandergalev.dev](https://alexandergalev.dev/)
