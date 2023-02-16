@@ -6,7 +6,7 @@
 - Check out my personal website ~> [alexandergalev.dev](https://alexandergalev.dev/)
 - Looking for junior SWE opportunities ~> [Link to my resume](https://alexandergalev.dev/resume.pdf/)
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> #
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b> #
 
 <div align="center" dir="auto">
  <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=agalev&hide=stars,issues,contribs&theme=tokyonight&bg_color=00000000&show_icons=true&count_private=true&hide_title=false&hide_border=true" />
