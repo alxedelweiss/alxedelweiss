@@ -9,8 +9,8 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> #
 
 <div align="center" dir="auto">
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=agalev&hide=stars,issues,contribs&theme=tokyonight&bg_color=00000000&show_icons=true&count_private=true&hide_title=false&hide_border=true" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalev&layout=compact&theme=tokyonight&bg_color=00000000&hide=html&hide_border=true&card_width=330" />
+ <img style="width: 30%;" src="https://github-readme-stats.vercel.app/api?username=agalev&hide=stars,issues,contribs&theme=tokyonight&bg_color=00000000&show_icons=true&count_private=true&hide_title=false&hide_border=true" />
+ <img style="width: 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalev&layout=compact&theme=tokyonight&bg_color=00000000&hide=html&hide_border=true&card_width=330" />
 </div>
 <img src="./animated-line.gif">
 
