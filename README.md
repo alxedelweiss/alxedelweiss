@@ -2,7 +2,7 @@
 
 # <img src="./about_me.gif" width=50px>**About me** #
 
-- Currently attending software engineering bootcamp @ Flatiron School in Denver, Colorado.
+- Currently attending an in-person Software Engineering Bootcamp @ Flatiron School in Denver.
 - Check out my personal website ~> [alexandergalev.dev](https://alexandergalev.dev/)
 - Looking for junior SWE opportunities ~> [Link to my resume](https://alexandergalev.dev/resume.pdf)
 
