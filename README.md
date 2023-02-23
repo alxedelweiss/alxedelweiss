@@ -1,6 +1,6 @@
 ### <img align="right" src="./programming.gif" width=250px> ###
 
-# <img src="./about_me.gif" width=50px>**About me** #
+# <img src="./about_me.gif" width=50px>**About me** [![](https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in) #
 
 - Currently attending an in-person Software Engineering Bootcamp @ Flatiron School in Denver.
 - Check out my personal website ~> [alexandergalev.dev](https://alexandergalev.dev/)
@@ -13,8 +13,6 @@
  <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalev&layout=compact&theme=tokyonight&bg_color=00000000&hide=html&hide_border=true&card_width=330" />
 </div>
 <img src="./animated-line.gif">
-
-[![](https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
