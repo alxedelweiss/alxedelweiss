@@ -1,6 +1,6 @@
 ### <img align="right" src="./programming.gif" width=250px> ###
 
-# <img src="./about_me.gif" width=50px>**About me** <span align="justify">[![](https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)</span> #
+# <img src="./about_me.gif" width=50px>**About me** <caption align="right">[![](https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)</caption> #
 
 - Currently attending an in-person Software Engineering Bootcamp @ Flatiron School in Denver.
 - Check out my personal website ~> [alexandergalev.dev](https://alexandergalev.dev/)
