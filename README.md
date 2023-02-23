@@ -5,8 +5,6 @@
 - Currently attending an in-person Software Engineering Bootcamp @ Flatiron School in Denver.
 - Check out my personal website ~> [alexandergalev.dev](https://alexandergalev.dev/)
 - Looking for junior SWE opportunities ~> [Link to my resume](https://alexandergalev.dev/resume.pdf)
-- [![](https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b> #
 
@@ -15,6 +13,8 @@
  <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalev&layout=compact&theme=tokyonight&bg_color=00000000&hide=html&hide_border=true&card_width=330" />
 </div>
 <img src="./animated-line.gif">
+
+[![](https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,5 +54,3 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
-<img src="./animated-line.gif">
