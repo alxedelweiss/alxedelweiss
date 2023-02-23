@@ -1,4 +1,5 @@
-### <img align="right" src="./programming.gif" width=250px> [![](https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in) ###
+### <img align="right" src="./programming.gif" width=250px> ###
+[![](https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 # <img src="./about_me.gif" width=50px>**About me** #
 
