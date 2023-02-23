@@ -12,6 +12,7 @@
  <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=agalev&hide=stars,issues,contribs&theme=tokyonight&bg_color=00000000&show_icons=true&count_private=true&hide_title=false&hide_border=true" />
  <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalev&layout=compact&theme=tokyonight&bg_color=00000000&hide=html&hide_border=true&card_width=330" />
 </div>
+[![](https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <img src="./animated-line.gif">
 
 ### Languages
@@ -54,5 +55,3 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 <img src="./animated-line.gif">
-
-[![](https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
