@@ -1,7 +1,7 @@
 ### <img align="right" src="./programming.gif" width=250px> ###
 # <img src="./about_me.gif" width=50px>**About me** #
 
-- Recently graduated from the in-person Software Engineering Bootcamp @ Flatiron School in Denver.
+- Recently graduated from the Software Engineering Bootcamp @ Flatiron School in Denver.
 - Check out my personal website ~> [alexandergalev.dev](https://alexandergalev.dev/)
 - Looking for junior SWE opportunities ~> [Link to my resume](https://alexandergalev.dev/resume.pdf)
 
