@@ -1,9 +1,10 @@
 ### <img align="right" src="./programming.gif" width=250px> ###
 # <img src="./about_me.gif" width=50px>**About me** #
 
-- Recently graduated from the Software Engineering Bootcamp @ Flatiron School in Denver.
+- Recently graduated from the Software Engineering Bootcamp @ Flatiron School in Denver
 - Check out my personal website ~> [alexandergalev.dev](https://alexandergalev.dev/)
 - Looking for junior SWE opportunities ~> [Link to my resume](https://alexandergalev.dev/resume.pdf)
+- Currently learning Java & Spring Boot
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b> #
 
