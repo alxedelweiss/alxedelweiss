@@ -13,6 +13,7 @@
  <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalev&layout=compact&theme=tokyonight&bg_color=00000000&hide=html&hide_border=true&card_width=330" />
 </div>
 <img src="./animated-line.gif">
+<img src="./about_me.gif" width=50px>
 
 ### Languages <img align="right" src="https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false" />
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
