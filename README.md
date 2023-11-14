@@ -1,19 +1,19 @@
-### <img align="right" src="./programming.gif" width=250px> ###
-# <img src="./about_me.gif" width=50px>**About me** #
+<img align="right" src="./programming.gif" width=250px>
+
+<img src="./about_me.gif" width=50px>**ABOUT ME**
 
 - Recently graduated from the Software Engineering Bootcamp @ Flatiron School in Denver
 - Check out my personal website ~> [alexandergalev.dev](https://alexandergalev.dev/)
-- Looking for junior SWE opportunities ~> [Link to my resume](https://alexandergalev.dev/resume.pdf)
-- Currently learning Java & Spring Boot
+- Always looking to contribute to exciting projects ~> [Link to my resume](https://alexandergalev.dev/resume.pdf)
+- Currently learning Java + Spring
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b> #
+- Avid chess player, rollerblader and photographer
 
 <div align="center" dir="auto">
- <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=agalev&hide=stars,issues,contribs&theme=tokyonight&bg_color=00000000&show_icons=true&count_private=true&hide_title=false&hide_border=true" />
- <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalev&layout=compact&theme=tokyonight&bg_color=00000000&hide=html&hide_border=true&card_width=330" />
+ <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=agalev&theme=tokyonight&bg_color=00000000&show_icons=true&count_private=true&hide_title=false&hide_border=true" />
+ <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalev&layout=compact&theme=tokyonight&bg_color=00000000&hide=html&hide_border=true&card_width=370" />
 </div>
 <img src="./animated-line.gif">
-<img src="./about_me.gif" width=50px>
 
 ### Languages <img align="right" src="https://visitcount.itsvg.in/api?id=agalev&label=Profile%20Views&color=6&icon=0&pretty=false" />
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
