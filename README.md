@@ -2,7 +2,7 @@
 
 <img src="./about_me.gif" width=50px>**ABOUT ME**
 
-- Recently graduated from the Software Engineering Bootcamp @ Flatiron School in Denver
+- Software Engineering bootcamp graduate from Flatiron School in Denver
 - Check out my personal website ~> [alexandergalev.dev](https://alexandergalev.dev/)
 - Always looking to contribute to exciting projects ~> [Link to my resume](https://alexandergalev.dev/resume.pdf)
 - Currently learning Java + Spring
