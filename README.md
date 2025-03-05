@@ -3,8 +3,8 @@
 <img src="./about_me.gif" width=50px>**ABOUT ME**
 
 - Software Engineering bootcamp graduate from Flatiron School in Denver
-- Check out my personal website ~> [alexandergalev.dev](https://alexandergalev.dev/)
-- Always looking to contribute to exciting projects ~> [Link to my resume](https://alexandergalev.dev/resume.pdf)
+- Check out my personal website ~> [alexedelweiss.com](https://alexedelweiss.com/)
+- Always looking to contribute to exciting projects ~> [Link to my resume](https://alexedelweiss.com/resume.pdf)
 - Currently learning Java + Spring
 
 - Avid chess player, rollerblader and photographer
