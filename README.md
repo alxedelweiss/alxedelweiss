@@ -5,7 +5,7 @@
 - Software Engineering bootcamp graduate from Flatiron School in Denver
 - Check out my personal website ~> [alexedelweiss.com](https://alexedelweiss.com/)
 - Always looking to contribute to exciting projects ~> [Link to my resume](https://alexedelweiss.com/resume.pdf)
-- Currently learning Java + Spring
+- Currently working on [Rent Hunter](https://rent-hunter.com)
 
 - Avid chess player, rollerblader and photographer
 
